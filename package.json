@@ -1,0 +1,19 @@
+{
+  "name": "crawlixtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "testMongo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.13.6",
+    "cheerio": "^1.2.0",
+    "jsdom": "^28.1.0",
+    "mongodb": "^7.1.0",
+    "mongoose": "^9.3.0"
+  }
+}
